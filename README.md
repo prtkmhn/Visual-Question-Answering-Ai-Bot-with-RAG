@@ -45,15 +45,16 @@ To get started, simply upload an image and type in your question about it. The A
 
 For example:
 
-- Upload: `ObjectDetections.png`
+
 - Question: "What objects are detected in the image?"
 - Answer: "The image contains a cat, a dog, and a bicycle."
 
-Object Detections
+Object Detections 
 
+![alt text](https://github.com/prtkmhn/Visual-Question-Answering-Ai-Bot-with-RAG/blob/main/ObjectDetections.png)
 Or,
+![alt text](https://github.com/prtkmhn/Visual-Question-Answering-Ai-Bot-with-RAG/blob/main/chatbot.png)
 
-- Upload: `chatbot.png`
 - Question: "What is the main feature of this chatbot?"
 - Answer: "The chatbot is designed for visual question answering using RAG."
 

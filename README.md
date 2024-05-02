@@ -16,7 +16,7 @@ Welcome to the Visual-Question-Answering-Ai-Bot-with-RAG, a cutting-edge applica
 ### 🎨 Getting Started
 
 #### Prerequisites
-- Python 3.8 or newer 🐍
+- Python 3.8  or newer 🐍
 - PyTorch, Transformers, and other dependencies 📚
 
 #### Installation
